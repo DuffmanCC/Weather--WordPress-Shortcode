@@ -1,6 +1,6 @@
 <?php 
 /*
-Plugin Name: Wetaher Temp
+Plugin Name: Weather
 Plugin URI: http://carlosortiz.co.uk/
 Description: Simple shortcode for show weather in a specific city
 Author: Carlos Ortiz
